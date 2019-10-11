@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <abchat></abchat>
+    <abchat/>
   </div>
 </template>
 
