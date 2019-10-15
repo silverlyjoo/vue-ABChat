@@ -46,7 +46,7 @@ npm install vue-abchat
 </template>
 <script>
 // get component from node_modules
-import abchat from '@/components/vue-abchat.vue'
+import abchat from 'vue-abchat.vue'
 export default {
   name: 'app',
   // add component

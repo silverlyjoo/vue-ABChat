@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <abchat/>
+    <abchat :base_url="'http://13.124.235.242:5000'"></abchat>
   </div>
 </template>
 
