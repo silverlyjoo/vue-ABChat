@@ -1,6 +1,6 @@
 {
   "name": "vue-abchat",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "AI chat component for vue.js",
   "repository": {
     "type": "git",
